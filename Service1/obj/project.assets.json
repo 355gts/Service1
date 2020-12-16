@@ -692,8 +692,8 @@
     },
     "Service.Common/1.0.0": {
       "type": "project",
-      "path": "../../../Service.Common/Service.Common/Service.Common.csproj",
-      "msbuildProject": "../../../Service.Common/Service.Common/Service.Common.csproj"
+      "path": "../../Service.Common/Service.Common/Service.Common.csproj",
+      "msbuildProject": "../../Service.Common/Service.Common/Service.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -709,11 +709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEV_2\\SharedRepos\\Service.Container\\Service1\\Service1\\Service1\\Service1.csproj",
+      "projectUniqueName": "D:\\DEV_2\\SharedRepos\\Service.Container\\Service1\\Service1\\Service1.csproj",
       "projectName": "Service1",
-      "projectPath": "D:\\DEV_2\\SharedRepos\\Service.Container\\Service1\\Service1\\Service1\\Service1.csproj",
+      "projectPath": "D:\\DEV_2\\SharedRepos\\Service.Container\\Service1\\Service1\\Service1.csproj",
       "packagesPath": "D:\\Users\\localadmin\\.nuget\\packages\\",
-      "outputPath": "D:\\DEV_2\\SharedRepos\\Service.Container\\Service1\\Service1\\Service1\\obj\\",
+      "outputPath": "D:\\DEV_2\\SharedRepos\\Service.Container\\Service1\\Service1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

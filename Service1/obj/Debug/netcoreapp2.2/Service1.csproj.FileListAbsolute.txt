@@ -12,3 +12,17 @@ D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\Service1\obj\Debug\netc
 D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\Service1\obj\Debug\netcoreapp2.2\Service1.csproj.CopyComplete
 D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\Service1\obj\Debug\netcoreapp2.2\Service1.dll
 D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\Service1\obj\Debug\netcoreapp2.2\Service1.pdb
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\bin\Debug\netcoreapp2.2\Service1.deps.json
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\bin\Debug\netcoreapp2.2\Service1.runtimeconfig.json
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\bin\Debug\netcoreapp2.2\Service1.runtimeconfig.dev.json
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\bin\Debug\netcoreapp2.2\Service1.dll
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\bin\Debug\netcoreapp2.2\Service1.pdb
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\bin\Debug\netcoreapp2.2\Service.Common.dll
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\bin\Debug\netcoreapp2.2\Service.Common.pdb
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\obj\Debug\netcoreapp2.2\Service1.csprojAssemblyReference.cache
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\obj\Debug\netcoreapp2.2\Service1.csproj.CoreCompileInputs.cache
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\obj\Debug\netcoreapp2.2\Service1.AssemblyInfoInputs.cache
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\obj\Debug\netcoreapp2.2\Service1.AssemblyInfo.cs
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\obj\Debug\netcoreapp2.2\Service1.csproj.CopyComplete
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\obj\Debug\netcoreapp2.2\Service1.dll
+D:\DEV_2\SharedRepos\Service.Container\Service1\Service1\obj\Debug\netcoreapp2.2\Service1.pdb
